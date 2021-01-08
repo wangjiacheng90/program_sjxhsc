@@ -1,0 +1,45 @@
+[33mcommit f45c1281717f30d1b0cfbb9be2a54fcbf71f7061[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: wangjiacheng90 <18642084399@163.com>
+Date:   Fri Jan 8 14:54:34 2021 +0800
+
+    22.txt
+
+[33mcommit 21e8880838aa2f7d9fc23ce733926aecc696f42d[m
+Author: wangjiacheng90 <18642084399@163.com>
+Date:   Fri Jan 8 14:52:33 2021 +0800
+
+    add sdaf
+
+[33mcommit 8711a9c8f8b0a2ae97aa70f800c74a9e51b7a009[m
+Author: wangjiacheng90 <18642084399@163.com>
+Date:   Fri Jan 8 14:18:57 2021 +0800
+
+    Revert "Update 1234.txt"
+    
+    This reverts commit fd084b13a473fe4768b45caa403aed74c112a541.
+
+[33mcommit fd084b13a473fe4768b45caa403aed74c112a541[m
+Author: wangjiacheng90 <18642084399@163.com>
+Date:   Fri Jan 8 14:18:25 2021 +0800
+
+    Update 1234.txt
+    
+    32
+
+[33mcommit c10492049102af2f09848de5eecf214b61b37329[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: wangjiacheng90 <18642084399@163.com>
+Date:   Fri Jan 8 14:09:09 2021 +0800
+
+    第2次命令行提交测试
+
+[33mcommit 929daaedf1bbe263da2a61cb4f63f0ab26109c49[m
+Author: wangjiacheng90 <18642084399@163.com>
+Date:   Fri Jan 8 11:20:00 2021 +0800
+
+    第2次命令行提交测试
+
+[33mcommit d2a5393a3c8926f08108722a6f0d37d1793f332d[m
+Author: wangjiacheng90 <18642084399@163.com>
+Date:   Fri Jan 8 11:14:19 2021 +0800
+
+    第一次命令行提交测试
